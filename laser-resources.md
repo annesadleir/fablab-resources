@@ -1,12 +1,5 @@
 # List of useful resources for laser-cutting
 
-* [Box designers online](#box-designers)
-* [File converters](#file-converters)
-* Sources of [files](#sources-of-files) and [images](#free-vector-images)
-* [Desktop tools](#desktop-tools)
-* [Suppliers of materials](#suppliers-of-materials)
-* [Blogs etc](#blogs-etc)
-
 * TOC
 {:toc}
 

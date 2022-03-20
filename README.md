@@ -2,6 +2,12 @@
 A place for files which contain links to useful resources for when I use the [Exeter FabLab](https://fablabdevon.org/)
 
 ## [Laser cutting](laser-resources.md)
+* [Box designers online](laser-resources.md#box-designers)
+* [File converters](laser-resources.md#file-converters)
+* Sources of [files](laser-resources.md#sources-of-files) and [images](#free-vector-images)
+* [Desktop tools](laser-resources.md#desktop-tools)
+* [Suppliers of materials](laser-resources.md#suppliers-of-materials)
+* [Blogs etc](laser-resources.md#blogs-etc)
 
 ## 3D printing WIP not ready yet
 
