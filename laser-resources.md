@@ -46,6 +46,9 @@ The overlapping tabs were hard to get cutting right. They would work better with
 Building stuff out of boxes.  
 [Youtube intro](https://www.youtube.com/watch?v=7QXbwj9nT9Y)
 
+### [Cuttle](https://cuttle.xyz/)
+A tool for making parametric laser designs. I haven't tried it yet.
+
 ### [Svg nest Nesting tool](https://svgnest.com/](https://svgnest.com/)
 Efficient placement of materials on a sheet.  See also deepnest.io under [desktop tool](#desktop-tools)
 
@@ -197,8 +200,6 @@ Wide variety of posts, some very technical, but interesting info.
 ### [https://www.lvl1.org/](https://www.lvl1.org/)
 
 ### [Tutorial on clock numbers and ticks](https://inkscape.org/forums/tutorials/create-evenly-spaced-hour-and-minute-marks-around-clock-circle/)
-
-### [3D-printing articulated animals](https://www.mcgybeer.xyz/)
 
 ### [Tinkercad](https://www.tinkercad.com/) -- can help turn an stl into a flat cutting file
 
