@@ -7,6 +7,8 @@
 * [Suppliers of materials](#suppliers-of-materials)
 * [Blogs etc](#blogs-etc)
 
+* TOC
+{:toc}
 
 ## Box designers
 * There is a [useful summary blogpost on makerdesignlab](https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/)
@@ -48,9 +50,10 @@ It's quite fiddly to get it to work but I did manage to make a pattern for cork.
 The overlapping tabs were hard to get cutting right. They would work better with a stiffer material.
 
 ### [Kyub](https://kyub.com/)
+Building stuff out of boxes.  
 [Youtube intro](https://www.youtube.com/watch?v=7QXbwj9nT9Y)
 
-### (Svg nest Nesting tool)[https://svgnest.com/](https://svgnest.com/)
+### [Svg nest Nesting tool](https://svgnest.com/](https://svgnest.com/)
 Efficient placement of materials on a sheet.  See also deepnest.io under [desktop tool](#desktop-tools)
 
 ## File converters
@@ -84,7 +87,7 @@ Brilliant for ideas.
 ### [www.ameede.com](www.ameede.com)
 Lots of free files: project files, 3d-illusion lamp files, vector images, also 3D printing files.
 
-### [3axis.co -- free vactors for laser cutting](https://3axis.co/)
+### [3axis.co -- free vectors for laser cutting](https://3axis.co/)
 Also has .stl files
 
 ### Blog with cutting files including boxes and crackers
@@ -155,14 +158,13 @@ Under Extensions, CNC Tabbed Tools
 Has more options than the above, including dividers which can be attached in various ways.
 The output needs a little interpretation.
 
-#### Inkscape extension to make single-stroke fonts (https://inkscape.org/~khemadeva/%E2%98%85inkscape-stroke-font-extensions)
+#### [Inkscape extension to make single-stroke fonts](https://inkscape.org/~khemadeva/%E2%98%85inkscape-stroke-font-extensions)
 
-#### Living hinges extension https://github.com/buxtronix/living-hinge
+#### [Living hinges extension](https://github.com/buxtronix/living-hinge)
 
 ### [FlatFab](http://flatfab.com/)
-[Tutorial 1 on 1](https://www.youtube.com/watch?v=Bc_LLZ8fijg)
-
 A tool to make 3D assemblages from flat cuts.
+[Tutorial 1 of 1](https://www.youtube.com/watch?v=Bc_LLZ8fijg)
 
 ### [DotGrid](https://hundredrabbits.itch.io/dotgrid)
 Looks like a good way to make very plain simple shapes, perhaps like simple letters?
