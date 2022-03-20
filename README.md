@@ -1,5 +1,5 @@
-# fablab-resources
-A place for files which contain links to useful resources for when I use the [Exeter FabLab](https://fablabdevon.org/)
+# FabLab Resources
+Links to useful resources for using the [Exeter FabLab](https://fablabdevon.org/)
 
 ## [Laser cutting](laser-resources.md)
 * [Box designers online](laser-resources.md#box-designers)
