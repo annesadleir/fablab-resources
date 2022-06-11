@@ -49,7 +49,7 @@ Building stuff out of boxes.
 ### [Cuttle](https://cuttle.xyz/)
 A tool for making parametric laser designs. I haven't tried it yet.
 
-### [Svg nest Nesting tool](https://svgnest.com/](https://svgnest.com/)
+### [Svg nest Nesting tool](https://svgnest.com/)
 Efficient placement of materials on a sheet.  See also deepnest.io under [desktop tool](#desktop-tools)
 
 ## File converters
